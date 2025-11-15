@@ -16,7 +16,7 @@ Machine learning • NLP • Data Visualization • Analytics
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oskardiyali&layout=compact&theme=tokyonight" />
+ <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oskardiyali&layout=compact&theme=tokyonight&langs_count=6&hide=jupyter%20notebook,tex,cmake,makefile,shell,json,yaml" />
 </p>
 
 ---
