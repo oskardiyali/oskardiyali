@@ -40,6 +40,5 @@ Created tokenization, POS tagging, and sentiment pipelines in Python/R.
 
 ## 🔗 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/oskardiyali"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:odiyali27@cornellcollege.edu"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://www.linkedin.com/in/oskar-diyali-1053a8263/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 </p>
