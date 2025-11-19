@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Oskar 👋</h1>
-<h3 align="center">Data Science & Computer Science Student</h3>
+<h3 align="center">Data Science & Computer Science Student @Cornell</h3>
 
 <p align="center">
 Machine learning • NLP • Data Visualization • Analytics  
